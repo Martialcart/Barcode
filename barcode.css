@@ -1,0 +1,17 @@
+.center {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: flex-start;
+}
+
+.tiles {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.tiles-column {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
